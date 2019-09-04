@@ -1,8 +1,5 @@
-// @ts-ignore
 import { Component, OnInit } from '@angular/core';
-// @ts-ignore
 import { PostService } from '../post.service';
-// @ts-ignore
 import { IPost } from '../post';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 
